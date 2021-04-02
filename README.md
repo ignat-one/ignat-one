@@ -1,4 +1,4 @@
-#### Hi 👋, I'm Ignat Khaylov.
+## Hi 👋, I'm Ignat Khaylov.
 
 I'm a lead javascript developer at [Between Exchange](https://betweenx.com), from Moscow, Russia 🇷🇺. I have 5 years of web delevoping experience. For the last 3 years I have been working with advertising technology, such as VAST, VPAID, Prebid.js, Header Bidding, etc.
 
@@ -6,7 +6,7 @@ Also, I'm maintainer of [Between Bid Adapter](https://github.com/prebid/Prebid.j
 
 ---
 
-#### 💻 Tech Stack
+## 💻 Tech Stack
 
 ![](https://img.shields.io/badge/javascript-FFEB3B.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=black)
@@ -21,7 +21,7 @@ Also, I'm maintainer of [Between Bid Adapter](https://github.com/prebid/Prebid.j
 
 ---
 
-#### 🤝 Connect with me
+## 🤝 Connect with me
 
 [![](https://img.shields.io/badge/ignat@ignat.one%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ignat@ignat.one) 
 [![](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignat-khaylov/) 
