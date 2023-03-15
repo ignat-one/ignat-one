@@ -1,4 +1,4 @@
-## Hi 👋, I'm Ignat Khaylov.
+## Hi 👋, I'm Ignat Khaylov
 
 I'm a Go and JavaScript developer at [Between Exchange](https://betweenx.com). I have 7 years of web delevoping experience. For the last 5 years I have been working with advertising technology, such as VAST, VPAID, Prebid.js, Header Bidding, and dealing with web traffic antifraud issues
 
